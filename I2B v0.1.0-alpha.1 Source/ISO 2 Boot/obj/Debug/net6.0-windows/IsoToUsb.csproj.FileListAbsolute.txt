@@ -1,0 +1,14 @@
+E:\Projects\Project ISO 9660\IsoToUsb\bin\Debug\net6.0-windows\IsoToUsb.exe
+E:\Projects\Project ISO 9660\IsoToUsb\bin\Debug\net6.0-windows\IsoToUsb.deps.json
+E:\Projects\Project ISO 9660\IsoToUsb\bin\Debug\net6.0-windows\IsoToUsb.runtimeconfig.json
+E:\Projects\Project ISO 9660\IsoToUsb\bin\Debug\net6.0-windows\IsoToUsb.dll
+E:\Projects\Project ISO 9660\IsoToUsb\bin\Debug\net6.0-windows\IsoToUsb.pdb
+E:\Projects\Project ISO 9660\IsoToUsb\obj\Debug\net6.0-windows\IsoToUsb.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Project ISO 9660\IsoToUsb\obj\Debug\net6.0-windows\IsoToUsb.AssemblyInfoInputs.cache
+E:\Projects\Project ISO 9660\IsoToUsb\obj\Debug\net6.0-windows\IsoToUsb.AssemblyInfo.cs
+E:\Projects\Project ISO 9660\IsoToUsb\obj\Debug\net6.0-windows\IsoToUsb.csproj.CoreCompileInputs.cache
+E:\Projects\Project ISO 9660\IsoToUsb\obj\Debug\net6.0-windows\IsoToUsb.dll
+E:\Projects\Project ISO 9660\IsoToUsb\obj\Debug\net6.0-windows\refint\IsoToUsb.dll
+E:\Projects\Project ISO 9660\IsoToUsb\obj\Debug\net6.0-windows\IsoToUsb.pdb
+E:\Projects\Project ISO 9660\IsoToUsb\obj\Debug\net6.0-windows\IsoToUsb.genruntimeconfig.cache
+E:\Projects\Project ISO 9660\IsoToUsb\obj\Debug\net6.0-windows\ref\IsoToUsb.dll
